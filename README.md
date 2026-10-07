@@ -2,6 +2,8 @@
 
 Aplicativo desktop que gera CPF válido, feito em Python com interface gráfica em PySide6 (Qt).
 
+<img width="1164" height="824" alt="{4B37800A-A2BC-4E0A-96DD-49093DE77418}" src="https://github.com/user-attachments/assets/bf5abed8-7ff2-4dc3-ab6c-264d86d1360d" />
+
 ## Funcionalidades
 
 - Gera um CPF ao clicar no botão **Gerar CPF**
